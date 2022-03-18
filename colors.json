@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/charlie/Pictures/wallpapers/gruv.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#211f1d",
+        "foreground": "#c7c7c6",
+        "cursor": "#c7c7c6"
+    },
+    "colors": {
+        "color0": "#211f1d",
+        "color1": "#aa9d93",
+        "color2": "#a8a39c",
+        "color3": "#aaa08b",
+        "color4": "#aaa390",
+        "color5": "#bab296",
+        "color6": "#c7be9e",
+        "color7": "#c7c7c6",
+        "color8": "#585755",
+        "color9": "#aa9d93",
+        "color10": "#a8a39c",
+        "color11": "#aaa08b",
+        "color12": "#aaa390",
+        "color13": "#bab296",
+        "color14": "#c7be9e",
+        "color15": "#c7c7c6"
+    }
+}
